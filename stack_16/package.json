@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "servor --reload",
+    "dev": "nodemon script.js"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.7",
+    "jsonwebtoken": "^9.0.2",
+    "servor": "^4.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
